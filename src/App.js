@@ -6,6 +6,7 @@ function App() {
       <h1>
         This is React app that deployed in gcp. <i>by Hiroko</i>
       </h1>
+      <h2 style={{ color: "red" }}>App deploy test</h2>
     </div>
   );
 }
